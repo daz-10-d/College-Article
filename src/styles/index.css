@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    font: optional;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+}
+nav{
+    height: 6%;
+    width: 100%;
+    background: #fff222;
+}
+ul{
+    list-style: none;
+}
