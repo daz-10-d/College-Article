@@ -138,14 +138,13 @@ nav h1 {
 }
 
 .uni-content {
-    aspect-ratio: 16/4;
-    max-width: 100%;
     height: auto;
     position: absolute;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    flex-shrink: 1;
     transition: 0.6s;
 }
 
